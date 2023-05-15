@@ -1,0 +1,26 @@
+﻿  Ambulancia.cpp
+  Avanzado.cpp
+  A_Asintomatico.cpp
+  A_Saludable.cpp
+  Bala.cpp
+  Ciudadano.cpp
+  Controladora.cpp
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Controladora.cpp(149,40): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Controladora.cpp(150,39): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Game.cpp
+  Instrucciones.cpp
+  Jugador.cpp
+  Menu_Principal.cpp
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Game.h(239,24): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Game.h(239,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.cpp
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Game.h(239,24): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Game.h(239,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Personaje.cpp
+  Policia.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Controladora.cpp(253): warning C4700: se utilizó la variable local 'direccion' sin inicializar
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Controladora.cpp(342): warning C4700: se utilizó la variable local 'direccion' sin inicializar
+  Ambulancia.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Quarentine Game.vcxproj -> C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\Quarentine Game.exe

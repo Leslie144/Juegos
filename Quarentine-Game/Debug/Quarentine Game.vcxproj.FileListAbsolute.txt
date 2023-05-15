@@ -1,0 +1,191 @@
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 5\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 5\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 5\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 5\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 5\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 6\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 6\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 6\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 6\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 6\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 7\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 7\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 7\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 7\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 7\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 8\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 8\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 8\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 8\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 8\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 15\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 15\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 15\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 15\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 15\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 15\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 11\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 11\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 11\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 11\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 11\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 11\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 12\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 12\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 12\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 12\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 12\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 12\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 13\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 13\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 13\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 13\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 13\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 13\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 14\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 14\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 14\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 14\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 14\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 2 version 14\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 2\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 2\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 2\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 2\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 2\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 2\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 3\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 3\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 3\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 3\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 3\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 3\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 4\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 4\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 4\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 4\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 4\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 4\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 5\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 5\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 5\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 5\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 5\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 5\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 6\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 6\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 6\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 6\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 6\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 6\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 8\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 8\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 8\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 8\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 8\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 8\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\jose\Desktop\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 16\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 16\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 16\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 16\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 16\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 16\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 16\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 16\Quarentine Game\Debug\Quarentine Game.pdb
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 17 - Escenario\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 17 - Escenario\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 17 - Escenario\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 17 - Escenario\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 17 - Escenario\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 17 - Escenario\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 17 - Escenario\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 17 - Escenario\Quarentine Game\Debug\Quarentine Game.pdb
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 18\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 18\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 18\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 18\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 18\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 18\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 18\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 18\Quarentine Game\Debug\Quarentine Game.pdb
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 18\Quarentine Game\Debug\QuarentineGame.Avanzado.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 19\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 19\Quarentine Game\Debug\QuarentineGame.Avanzado.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 19\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 19\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 19\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 19\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 19\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 19\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 19\Quarentine Game\Debug\Quarentine Game.pdb
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 20\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 20\Quarentine Game\Debug\QuarentineGame.Avanzado.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 20\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 20\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 20\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 20\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 20\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 20\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 20\Quarentine Game\Debug\Quarentine Game.pdb
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\QuarentineGame.Avanzado.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 21\Quarentine Game\Debug\Quarentine Game.pdb
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 22\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 22\Quarentine Game\Debug\QuarentineGame.Avanzado.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 22\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 22\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 22\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 22\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 22\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 22\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 22\Quarentine Game\Debug\Quarentine Game.pdb
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 23\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 23\Quarentine Game\Debug\QuarentineGame.Avanzado.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 23\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 23\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 23\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 23\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 23\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 23\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 23\Quarentine Game\Debug\Quarentine Game.pdb
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 24\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 24\Quarentine Game\Debug\QuarentineGame.Avanzado.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 24\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 24\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 24\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 24\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 24\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 24\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 24\Quarentine Game\Debug\Quarentine Game.pdb
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 25\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 25\Quarentine Game\Debug\QuarentineGame.Avanzado.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 25\Quarentine Game\Debug\QuarentineGame.Game.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 25\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 25\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 25\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 25\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 25\Quarentine Game\Debug\Quarentine Game.exe
+D:\Visual 2019\Trabajo Final\Hito 3\Hito 3 version 25\Quarentine Game\Debug\Quarentine Game.pdb
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\QuarentineGame.Avanzado.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\QuarentineGame.Game.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\QuarentineGame.Instrucciones.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\QuarentineGame.Menu_Principal.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\QuarentineGame.MyForm.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\Quarentine Game.exe
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\Debug\Quarentine Game.pdb
