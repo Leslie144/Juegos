@@ -1,0 +1,26 @@
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Avanzado.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Game.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Instrucciones.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Menu_Principal.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.MyForm.resources
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.exe
+C:\Users\Leslie\Desktop\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.pdb
+C:\Maleta de Leslie\UPC\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+C:\Maleta de Leslie\UPC\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Avanzado.resources
+C:\Maleta de Leslie\UPC\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Game.resources
+C:\Maleta de Leslie\UPC\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Instrucciones.resources
+C:\Maleta de Leslie\UPC\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Menu_Principal.resources
+C:\Maleta de Leslie\UPC\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.MyForm.resources
+C:\Maleta de Leslie\UPC\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+C:\Maleta de Leslie\UPC\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.exe
+C:\Maleta de Leslie\UPC\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.pdb
+D:\UPC\Nueva carpeta (2)\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.vcxprojAssemblyReference.cache
+D:\UPC\Nueva carpeta (2)\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Avanzado.resources
+D:\UPC\Nueva carpeta (2)\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Game.resources
+D:\UPC\Nueva carpeta (2)\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Instrucciones.resources
+D:\UPC\Nueva carpeta (2)\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.Menu_Principal.resources
+D:\UPC\Nueva carpeta (2)\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\QuarentineGame.MyForm.resources
+D:\UPC\Nueva carpeta (2)\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.vcxproj.GenerateResource.cache
+D:\UPC\Nueva carpeta (2)\Programación II\Juegos\Quarentine Game\TF_U201914358\Juego Quarantine\Quarentine Game\x64\Debug\Quarentine Game.exe
