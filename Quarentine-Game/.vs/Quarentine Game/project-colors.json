@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9acf77b5-dbd6-4189-bc2b-ca3759ab0af6": {
+      "ProjectGuid": "9acf77b5-dbd6-4189-bc2b-ca3759ab0af6",
+      "DisplayName": "Quarentine Game",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
