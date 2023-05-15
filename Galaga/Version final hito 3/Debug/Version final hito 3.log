@@ -1,0 +1,17 @@
+﻿  Version final hito 3.cpp
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(85,11): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(86,11): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(87,11): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(216,13): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(810,25): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(823,60): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(824,60): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(846,60): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(847,60): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(863,33): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(1002,25): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Version final hito 3.cpp(1177,238): warning C4129: ' ': secuencia de escape de carácter no reconocida
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Version final hito 3.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Version final hito 3.vcxproj -> C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Debug\Version final hito 3.exe

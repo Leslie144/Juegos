@@ -1,0 +1,4 @@
+C:\Maleta de Leslie\UPC\Programación I\Juegos\Galaga\Version final hito 3\Version final hito 3\Debug\Version final hito 3.vcxprojAssemblyReference.cache
+D:\UPC\2019-02\Programación I\Juegos\Galaga\Version final hito 3\Version final hito 3\Debug\Version final hito 3.vcxprojAssemblyReference.cache
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Debug\Version final hito 3.vcxproj.AssemblyReference.cache
+C:\Users\lesli\OneDrive\Documentos\Portafolio\Programas\Juegos\Galaga\Version final hito 3\Debug\Version final hito 3.vcxproj.SuggestedBindingRedirects.cache
